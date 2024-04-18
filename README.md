@@ -2,7 +2,7 @@
 
 ## About Me
 
-Recent Computer Science & Information Security graduate from John Jay College (CUNY) with a strong background in programming, cybersecurity tools, and customer service. Seeking opportunities to leverage technical skills and client-facing experience in the field of information technology.
+Upcoming Computer Science & Information Security graduate from John Jay College (CUNY) with a strong background in programming, cybersecurity tools, and customer service. Seeking opportunities to leverage technical skills and client-facing experience in the field of information technology.
 
 - 👀 I'm interested in cybersecurity, Security Operations, web development, and digital privacy.
 - 🌱 I'm currently learning about ethical hacking and cloud security.
