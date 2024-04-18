@@ -17,12 +17,21 @@ Recent Computer Science & Information Security graduate from John Jay College (C
   - Bachelor of Science in Computer Science & Information Security
   - GPA: 3.70/4.00
 
-## Skills & Certifications
+## Skills
 
 - **Programming Languages:** C++, Python
 - **Security Tools:** Wireshark, Network Diagnostics
 - **Project Management:** Zendesk, Mondays
 - **Point of Sale Systems:** Aldelo POS, Toast POS
+
+## Certifications
+
+### Completed
+- **SQL For Data Science** by University of California, Davis (Issued: April 2024)
+
+### In Progress
+- CompTIA Security+
+- Google Cybersecurity Professional Certificate
 
 ## Professional Experience
 
