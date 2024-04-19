@@ -35,7 +35,9 @@ Upcoming Computer Science & Information Security graduate from John Jay College 
 ## Technical Projects
 -Created a botnet with the public program Imminent Monitor in 2014. Created the botnet for the primary use of Cryptomining. Used an encryptor to keep the virus FUD as well as an 
 extension spoofer that took advantage of an exploit on windows to make a .exe look like a .zip. Currently conducting reverse engineering and performing a malware analysis in April 2024 and updating my findings to Github.
+
 -Multiple programs written in C++ Uploaded to Github for my Advanced Data Structures class and Object Oriented Programming. Programs ranging from basic mathematical functions all the way to proper organization of data with the use of advanced methods in C++(Linked Lists,Nodes,Doubly Linked lists, Recursion, Stacks/Queues, ETC)
+
 -HTML code and web development practice as I code a portfolio website.
 
 ## Professional Experience
